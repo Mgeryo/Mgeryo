@@ -8,5 +8,5 @@
 
 | Проект | Описание | Ссылки |
 | :--- | :--- | :--- |
-| **Ревизорро Сайтов** | Быстрый чекер доступности сайтов. | [Код](https://github.com/Mgeryo/aiohttp-status-monitor/tree/master/day01_status_checker) |
+| **Ревизорро Сайтов** | Быстрый чекер доступности сайтов. | [Код](https://github.com/Mgeryo/aiohttp-status-monitor/tree/master) |
 | **Крипто-Трейдер** | Агрегатор цен с бирж (JSON API). | [Код](https://github.com/Mgeryo/aiohttp-status-monitor/tree/master/day02_crypto) |
